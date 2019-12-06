@@ -5,3 +5,4 @@ git stariting practice
 git add
 git commit
 git init
+git rm

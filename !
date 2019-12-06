@@ -1,0 +1,28 @@
+hhhhhhhhh
+
+hhhhhhhhhh
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   first.txt
+#
+# ------------------------ >8 ------------------------
+# Do not modify or remove the line above.
+# Everything below it will be ignored.
+diff --git a/first.txt b/first.txt
+index 8953705..8f8ffdc 100644
+--- a/first.txt
++++ b/first.txt
+@@ -1,3 +1,7 @@
+ git stariting practice
+ 
+ ???{?I?ȃ??[?N?t???[???w??
++
++git add
++git commit
++git init
+\ No newline at end of file
