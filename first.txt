@@ -6,4 +6,5 @@ git add
 git commit
 git init
 git rm
-igt status
+git status
+git diff
